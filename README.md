@@ -10,3 +10,4 @@ How to:
 
 3. Run BysykkelApplication.java.
 
+Dependencies are handled by Maven and are included in the pom.xml file.
